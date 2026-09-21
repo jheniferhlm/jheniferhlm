@@ -17,6 +17,7 @@
 
 <samp>
 graduated in systems analysis and development at pucpr<br/>
+studying software engineering at utp<br />
 fullstack software developer at bosch digital<br/>
 curious about technology, systems and how things work
 </samp>
